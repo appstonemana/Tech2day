@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SwipeRevealLayout">
+        <attr name="dragEdge">
+            <flag name="left" value="1" />
+            <flag name="right" value="2" />
+            <flag name="top" value="4" />
+            <flag name="bottom" value="8" />
+        </attr>
+
+        <attr name="mode">
+            <enum name="normal" value="0" />
+            <enum name="same_level"   value="1" />
+        </attr>
+
+        <attr name="flingVelocity" format="integer" />
+
+        <attr name="minDistRequestDisallowParent" format="dimension" />
+    </declare-styleable>
+
+    <!-- Custom Font -->
+    <declare-styleable name="CustomTextView">
+        <attr name="font_name" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewBold">
+        <attr name="CustomTextViewBoldCustomFont" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewMedium">
+        <attr name="CustomTextViewMediumCustomFont" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewRegular">
+        <attr name="CustomTextViewRegularCustomFont" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewRobotoRegular">
+        <attr name="CustomTextViewRobotoRegularCustomFont" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewRobotoMedium">
+        <attr name="CustomTextViewRobotoMediumCustomFont" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomTextViewRobotoBold">
+        <attr name="CustomTextViewRobotoBoldCustomFont" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="LatoBold">
+        <attr name="LatoBoldCustomFont" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="LatoLight">
+        <attr name="LatoLightCustomFont" format="string"/>
+    </declare-styleable>
+</resources>

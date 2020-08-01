@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewsDetailsActivity">
+
+
+    <!--<androidx.core.widget.NestedScrollView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent">-->
+
+        <app.num.numandroidpagecurleffect.PageCurlView
+            android:id="@+id/pagecurl_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/ic_launcher_foreground" >
+
+
+
+        </app.num.numandroidpagecurleffect.PageCurlView>
+
+    <!--</androidx.core.widget.NestedScrollView>-->
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark">
+
+    </androidx.appcompat.widget.Toolbar>
+
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_16">12dp</dimen>
+
+
+    <dimen name="spacing_grid_16">16dp</dimen>
+    <dimen name="spacing_grid_12">12dp</dimen>
+    <dimen name="spacing_grid_24">12dp</dimen>
+    <dimen name="toolbar_text_size">21sp</dimen>
+    <dimen name="home_grid_space">24dp</dimen>
+</resources>

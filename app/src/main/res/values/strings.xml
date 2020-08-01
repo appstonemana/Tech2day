@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tech2day</string>
+
+
+    <string name="news_title">Google Camera app hints that the Pixel 4’s second lens will be for portraits and not wide-angle shots</string>
+    <string name="publish_time">Jul 5, 2019, 2:37pm</string>
+    <string name="news_details">Google has already shown that its upcoming Pixel 4 will have two rear cameras, but there was an open mystery as to whether the second lens would be a telephoto shooter or optimized for super-wide angle photos. A new version of the Google Camera app might have spilled the answer: according to XDA Developers, the build of the app contained in a leaked version of Android Q contains code references that specifically mention “telephoto,” making that the likely function of the Pixel 4’s second lens.
+
+I know what you might be thinking: Pixel phones can already take great portrait shots. In some cases, the edge detection is better than on an iPhone or other Android phone because Google’s computational photography has just gotten that good. But since Apple’s flagship iPhones use actual depth data obtained from two cameras, they produce a more realistic transition between the subject and the blurry background. Google, on the other hand, basically goes from foreground to very blurred background right away. A telephoto lens will help Google catch up there.
+
+Still, this is disappointing to me. You can take a portrait with a standard camera, but you can’t take an ultra-wide angle shot with one unless you’re stitching shots together. It would’ve been great for Google to match LG, Samsung, and other companies here. Even the iPhone is expected to gain a wider camera in its three-camera system this year.
+
+I guess it would make sense for Google to only now be getting around to a telephoto / portrait lens after years of sticking with a single rear camera. And to be fair, there are a ton of people out there who really love taking portraits.
+
+The other interesting tidbit from this Camera app code is that it refers to a front IR camera. We already know there won’t be a fingerprint sensor on the back of the Pixel 4, so this supports the idea that Google is preparing its own answer to Apple’s Face ID authentication, likely incorporating the company’s Project Soli technology. That’s all good news since Google should be throwing everything it can into the Pixel 4 to make it a stellar flagship.</string>
+    <string name="news_original_url">https://www.theverge.com/2019/7/5/20683272/google-pixel-4-second-camera-telephoto-portrait-camera-app</string>
+    <string name="news_vendor">
+        https://www.theverge.com
+    </string>
+    <string name="news_category">
+    Google Pixel
+    </string>
+
+    <string name="news_image">https://cdn.vox-cdn.com/thumbor/SWAo2vHHaBZr_jocLf1SL6nTfRc=/0x0:742x494/920x613/filters:focal(228x201:346x319):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/64678025/p4zoom.0.jpg</string>
+</resources>

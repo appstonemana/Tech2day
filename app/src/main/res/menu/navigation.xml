@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="Share" />
+    <item
+        android:id="@+id/navigation_link"
+        android:icon="@drawable/ic_link_black_24dp"
+        android:title="Link" />
+
+
+    <!--<item-->
+    <!--android:id="@+id/navigation_contact"-->
+    <!--android:icon="@drawable/ic_contact"-->
+    <!--android:title="@string/contact" />-->
+</menu>
